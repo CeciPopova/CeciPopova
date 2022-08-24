@@ -8,7 +8,6 @@ My name is Tsetsi Popova!
 
 [<img align="left" alt="Linkedin" width="26px" src="https://www.kindpng.com/picc/m/363-3632986_logo-linkedin-png-rond-transparent-png.png" style="padding-right:10px;"/>**Linkedin**](https://www.linkedin.com/in/ceci-popova-2895a7219/)    </br>
 </b>
-[<img align="left" alt="Linkedin" width="26px" src="https://www.kindpng.com/picc/m/363-3632986_logo-linkedin-png-rond-transparent-png.png" style="padding-right:10px;"/>**Linkedin**](https://www.linkedin.com/in/ceci-popova-2895a7219/)
 
 
 <!-- CONNECT-WITH-ME-POST-LIST:END -->
