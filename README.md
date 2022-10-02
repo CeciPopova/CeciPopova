@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Tsetsi Popova!
-- 🌱 I’m currently learning C# and JS in @SoftUni.
+- 🌱 I’m currently learning C#, JS, HTML & CSS in @SoftUni.
 - 📫 How to reach me: ceci.popova83@yahoo.com
 <!-- CONNECT-WITH-ME-POST-LIST:START -->
 <h2>Connect with me:</h2>
