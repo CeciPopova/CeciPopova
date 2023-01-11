@@ -32,3 +32,4 @@ My name is Tsetsi Popova!
 |<a href="https://softuni.bg/trainings/3606/programming-fundamentals-with-csharp-january-2022"> C# Fundamentals </a>| <a href="https://softuni.bg/certificates/certificates/converttoimage/130049?code=f25e233b"> 👉📜✔️</a> |
 |<a href="https://softuni.bg/trainings/3699/csharp-advanced-may-2022"> C# Advanced </a>| <a href="https://softuni.bg/certificates/certificates/converttoimage/136302?code=e01e0cd1"> 👉📜✔️</a> |
 |<a href="https://softuni.bg/trainings/3700/csharp-oop-june-2022"> C# OOP </a>| <a href="https://softuni.bg/certificates/certificates/converttoimage/141774?code=ee900d6d"> 👉📜✔️</a> |
+|<a href="https://softuni.bg/trainings/3846/js-advanced-september-2022"> JS - Advanced </a>| <a href="https://softuni.bg/certificates/details/150130/7d62d5e8"> 👉📜✔️</a> |
