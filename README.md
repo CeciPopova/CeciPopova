@@ -5,10 +5,11 @@ My name is Tsetsi Popova!
 - 📫 How to reach me: ceci.popova83@yahoo.com
 <!-- CONNECT-WITH-ME-POST-LIST:START -->
 <h2>Connect with me:</h2>
-<b>
+
 [<img align="left" alt="Linkedin" width="26px" src="https://www.kindpng.com/picc/m/363-3632986_logo-linkedin-png-rond-transparent-png.png" style="padding-right:10px;"/>**Linkedin**](https://www.linkedin.com/in/ceci-popova-2895a7219/)    </br>
 </b>
 <!-- CONNECT-WITH-ME-POST-LIST:END -->
+
 
 
 <p align="center">
