@@ -11,7 +11,7 @@ My name is Tsetsi Popova!
 <!-- CONNECT-WITH-ME-POST-LIST:END -->
 
 
-
+<p align="center">
 <img src= "https://github-profile-trophy.vercel.app/?username=Tsetseto&theme=radical" />
 </p>
 -->
@@ -32,3 +32,4 @@ My name is Tsetsi Popova!
 <a href="https://softuni.bg/trainings/3700/csharp-oop-june-2022"> C# OOP </a> <a href="https://softuni.bg/certificates/details/141774/ee900d6d"> 👉📜✔️</a> 
   
 <a href="https://softuni.bg/trainings/3846/js-advanced-september-2022"> JS - Advanced </a> <a href="https://softuni.bg/certificates/details/150130/7d62d5e8"> 👉📜✔️</a> 
+</p>
