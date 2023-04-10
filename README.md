@@ -8,18 +8,8 @@ My name is Tsetsi Popova!
 
 [<img align="left" alt="Linkedin" width="26px" src="https://www.kindpng.com/picc/m/363-3632986_logo-linkedin-png-rond-transparent-png.png" style="padding-right:10px;"/>**Linkedin**](https://www.linkedin.com/in/ceci-popova-2895a7219/)    </br>
 </b>
-<!-- CONNECT-WITH-ME-POST-LIST:END -->
+<!-- CONNECT-WITH-ME-POST-LIST:END 
 
-
-
-<p align="center">
-<img src= "https://github-profile-trophy.vercel.app/?username=Tsetseto&theme=radical" />
-</p>
-
-<p align="center">
-<img src= "https://github-readme-streak-stats.herokuapp.com/?user=Tsetseto&theme=tokyonight&hide_border=true" />
-</p>
-<p align = "center">
 
 
 ### 🎓 &nbsp;Passed Courses and their Certificates
