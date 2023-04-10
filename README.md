@@ -21,6 +21,7 @@ My name is Tsetsi Popova!
 </p>
 <p align = "center">
 
+
 ### 🎓 &nbsp;Passed Courses and their Certificates
 
 
