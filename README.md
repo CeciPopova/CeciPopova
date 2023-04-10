@@ -10,7 +10,7 @@ My name is Tsetsi Popova!
 </b>
 <!-- CONNECT-WITH-ME-POST-LIST:END 
 
-
+<p>
 
 ### 🎓 &nbsp;Passed Courses and their Certificates
 
