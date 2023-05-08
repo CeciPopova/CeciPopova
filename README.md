@@ -25,3 +25,6 @@ My name is Tsetsi Popova!
   
 <a href="https://softuni.bg/trainings/3846/js-advanced-september-2022"> JS - Advanced </a> <a href="https://softuni.bg/certificates/details/150130/7d62d5e8"> 👉📜✔️</a> 
 </p>
+
+<a href="https://softuni.bg/trainings/3846/js-applications-february-2023"> JS - Advanced </a> <a href="https://softuni.bg/certificates/certificates/converttoimage/169143?code=82f8ee3e"> 👉📜✔️</a> 
+</p>
