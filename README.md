@@ -24,10 +24,14 @@ My name is Tsetsi Popova!
 <a href="https://softuni.bg/trainings/3700/csharp-oop-june-2022"> C# OOP </a> <a href="https://softuni.bg/certificates/details/141774/ee900d6d"> 👉Click here📜✔️</a> 
   
 <a href="https://softuni.bg/trainings/3846/js-advanced-september-2022"> JS - Advanced </a> <a href="https://softuni.bg/certificates/details/150130/7d62d5e8"> 👉Click here📜✔️</a> 
-</p>
+
 
 <a href="https://softuni.bg/trainings/3962/js-applications-february-2023"> JS - Applications </a> <a href="https://softuni.bg/Certificates/Details/169143/82f8ee3e"> 👉Click here📜✔️</a> 
-</p>
+
 
 <a href="https://softuni.bg/trainings/4111/js-back-end-may-2023"> JS - Back-End </a> <a href="https://softuni.bg/Certificates/Details/175219/8a49a2b5"> 👉Click here📜✔️</a> 
+
+<a href="https://softuni.bg/trainings/4849/html-css-january-2025"> HTML & CSS </a> <a href="https://softuni.bg/certificates/certificates/converttoimage/237966?code=f9f0ad92">  👉Click here📜✔️</a>
+
+<a href="https://softuni.bg/trainings/4846/reactjs-february-2025"> React JS </a> <a href="https://softuni.bg/certificates/certificates/converttoimage/241579?code=2b0d32a6">  👉Click here📜✔️</a>
 </p>
